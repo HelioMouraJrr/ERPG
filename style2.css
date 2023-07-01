@@ -31,11 +31,11 @@ header h1 {
 }
 
 header a {
-    color: #378a00;
-    text-decoration: underline;
-    text-shadow: 1px 1px 0px black;
-    float: right;
-    font-size: 1.2em;
+        color: #aa0000;
+        text-decoration: underline;
+        text-shadow: 1px 1px 0px black;
+        float: right;
+        font-size: 1.2em;
 }
 
 section {
@@ -53,12 +53,7 @@ section p {
     padding-top: 20px;
     padding-left: 40px;
     font-size: 1.1em;
-    color: #960101;
-}
-
-section a {
-    text-decoration: none;
-    color: #4d0549;
+    color: rgb(3, 196, 3);
 }
 
 section h2 {
@@ -75,14 +70,6 @@ section h2 {
     max-width: 31.5%;
     padding: 0 4px;
 }
-
-.coluna2 {
-    flex: 25%;
-    max-width: 31.5%;
-    padding-right: 2%;
-    padding-left: 10%;
-    margin-bottom: 20px;
-}
   
 .coluna2 img {
     margin-top: 8px;
@@ -96,7 +83,7 @@ section h2 {
     width: 100%;
 }
 
-.coluna img, .coluna2 img {
+.coluna img {
     border: 2px solid black;
 }
 
